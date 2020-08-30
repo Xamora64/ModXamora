@@ -1,0 +1,16 @@
+[
+{
+  "modid": "epee",
+  "name": "Epee",
+  "description": "C'est une Epee",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://www.youtube.com/channel/UCzGwOTF1e1QPpC_2n-Rx8pw?view_as=subscriber",
+  "updateUrl": "",
+  "authorList": ["Xamora"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
